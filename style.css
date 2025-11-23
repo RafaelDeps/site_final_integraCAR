@@ -81,6 +81,7 @@ body > :not(header){margin-top:84px}
 }
 .hero-sub .small{display:block;font-weight:700;margin-top:8px}
 .hero-sub .sub{margin-top:8px;opacity:0.95}
+.hero-sub .highlight{color:var(--white );font-weight:800}
 
 /* --- Block (conteúdo centralizado com sombra) --- */
 .block{
